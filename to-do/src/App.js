@@ -134,7 +134,6 @@ import './App.css';
 
         ReactDOM.render(<TodoApp initItems={todoItems}/>, document.getElementById('app'));
 
-      </div>
     );
   }
 }
